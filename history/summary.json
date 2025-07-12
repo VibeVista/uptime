@@ -4,7 +4,7 @@
     "url": "https://vvcc.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/vvcc.vercel.app.ico",
     "slug": "vvcc-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 162,
     "timeMonth": 162,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   },
   {
     "name": "Topgles",
     "url": "https://topgles.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/topgles.vercel.app.ico",
     "slug": "topgles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   },
   {
     "name": "History of JavaScript",
@@ -58,7 +62,7 @@
     "url": "https://generate-llms-txt.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/generate-llms-txt.vercel.app.ico",
     "slug": "ll-ms-txt-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
