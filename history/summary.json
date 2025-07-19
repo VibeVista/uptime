@@ -44,7 +44,7 @@
     "url": "https://korean-js-timeline-saga.lovable.app",
     "icon": "https://icons.duckduckgo.com/ip3/korean-js-timeline-saga.lovable.app.ico",
     "slug": "history-of-java-script",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 695,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "LLMs.txt Generator",
