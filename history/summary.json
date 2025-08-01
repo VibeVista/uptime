@@ -44,7 +44,7 @@
     "url": "https://korean-js-timeline-saga.lovable.app",
     "icon": "https://icons.duckduckgo.com/ip3/korean-js-timeline-saga.lovable.app.ico",
     "slug": "history-of-java-script",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +56,7 @@
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2025-08-01": 0,
       "2025-07-23": 26,
       "2025-07-19": 33
     }
