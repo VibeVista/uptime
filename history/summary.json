@@ -4,7 +4,7 @@
     "url": "https://vvcc.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/vvcc.vercel.app.ico",
     "slug": "vvcc-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 177,
     "timeYear": 176,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-08-03": 14,
       "2025-07-12": 11
     }
@@ -25,7 +26,7 @@
     "url": "https://topgles.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/topgles.vercel.app.ico",
     "slug": "topgles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 668,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-08-03": 14,
       "2025-07-12": 11
     }
@@ -50,12 +52,12 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 683,
     "timeDay": 473,
     "timeWeek": 664,
-    "timeMonth": 691,
+    "timeMonth": 717,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2025-08-01": 25,
@@ -68,7 +70,7 @@
     "url": "https://generate-llms-txt.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/generate-llms-txt.vercel.app.ico",
     "slug": "ll-ms-txt-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
